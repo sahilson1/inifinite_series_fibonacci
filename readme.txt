@@ -3,4 +3,4 @@ Its so fascinating to find patterns and relations in infinite series and fibonac
 
 ********************IMPORTANT********************
 use python 3.8 and install numpy and matplotlib modules first in your terminal using:
-pip install nympy and pip install matplotlib
+pip install numpy and pip install matplotlib
